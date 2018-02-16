@@ -3,3 +3,6 @@ Very simple and cheap DIY-ambilight working like this: https://youtu.be/PWzuwC1u
 
 ## Dependencies
 Arduino sketch uses this library: https://github.com/FastLED/FastLED
+
+## Desktop app
+I'm using AmbiBox: http://www.ambibox.ru
